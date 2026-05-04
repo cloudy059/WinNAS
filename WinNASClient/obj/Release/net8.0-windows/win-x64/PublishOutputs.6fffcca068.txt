@@ -1,0 +1,2 @@
+e:\WinNAS\WinNASClient\bin\Release\net8.0-windows\win-x64\publish\WinNAS.pdb
+e:\WinNAS\WinNASClient\bin\Release\net8.0-windows\win-x64\publish\WinNAS.exe

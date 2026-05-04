@@ -1,0 +1,2 @@
+e:\WinNAS\publish_v8\WinNAS.pdb
+e:\WinNAS\publish_v8\WinNAS.exe
